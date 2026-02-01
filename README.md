@@ -1,6 +1,6 @@
 # 💕 Valentine's Day Website for Puchu
 
-A beautiful, interactive Valentine's Day website created with love for Sushmita Sarkar (Puchu).
+A beautiful, interactive Valentine's Day website created with love..
 
 ## 🎨 Features
 
